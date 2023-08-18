@@ -1,3 +1,5 @@
+## Pixelmon Reforged v9.1.6時点の伝説ポケモンの出現場所一覧
+
 |世代|No|ポケモン|Pokemon|捕捉率|出現バイオーム|biome|時間帯|備考|レイドバイオーム|raids-biome|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |カントー|144|フリーザー|Articuno|3|雪山 / 雪のツンドラ の【氷の神社】|snowy_mountains / snowy_tundra|-|要：炎のオーブ|雪山 / 雪のツンドラ|snowy_mountains / snowy_tundra|
