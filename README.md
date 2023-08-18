@@ -8,8 +8,7 @@ https://www.youtube.com/channel/UC3c6N3j81reUJihB6VzSM3Q
 
 ・伝説ポケモン出現場所一覧 (v9.1.6)
 
-https://github.com/thord-game/MoreInfo/blob/main/PixelmonReforged/LegendarySpawn_v9.1.6.htm
-
+https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/LegendarySpawn
 
 ## Minecraft用 モリサワ社 BIZ UDゴシック 日本語フォント
 
