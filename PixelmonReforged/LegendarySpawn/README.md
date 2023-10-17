@@ -18,7 +18,7 @@
 | |379|レジスチル|Registeel|3|砂漠|desert|夜明け,午前|地下|砂漠|desert|
 | |380|ラティアス|Latias|3|海洋|ocean|午前|空中|暖かい海|warm_ocean|
 | |381|ラティオス|Latios|3|海洋|ocean|午後|空中|暖かい海|warm_ocean|
-| |382|カイオーガ|Kyogre|3|深海|deep_ocean|夜|水中|海洋|ocean|
+| |382|カイオーガ|Kyogre|3|深海|deep_ocean|雨か嵐の夜|水中|海洋|ocean|
 | |383|グラードン|Groudon|3|砂漠の丘陵|desert_hills|日中| |砂漠|desert|
 | |384|レックウザ|Rayquaza|3|山岳|mountains|夜明け,夕方|空中|山岳|mountains|
 | |386|デオキシス|Deoxys|3|雪のタイガの山 / エンドの高地|snowy_taiga_mountains / end_highlands|午前| |雪のタイガ / エンド|snowy_taiga / the_end|
@@ -41,8 +41,8 @@
 | |638|コバルオン|Cobalion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|夜| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
 | |639|テラキオン|Terrakion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|夜| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
 | |640|ビリジオン|Virizion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|日中| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
-| |641|トルネロス|Tornadus|3|平原|plains|午後|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
-| |642|ボルトロス|Thundurus|3|平原|plains|午前|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
+| |641|トルネロス|Tornadus|3|平原|plains|雨か嵐の午後|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
+| |642|ボルトロス|Thundurus|3|平原|plains|雨か嵐の午前|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
 | |643|レシラム|Reshiram|45|巨大樹のタイガ|giant_tree_taiga|日中| |巨大樹のタイガ|giant_tree_taiga|
 | |644|ゼクロム|Zekrom|45|巨大樹のタイガ|giant_tree_taiga|夜| |巨大樹のタイガ|giant_tree_taiga|
 | |645|ランドロス|Landorus|3|荒野の変異した台地|modified_badlands_plateau|夜明け,午前|空中|荒野|badlands|
