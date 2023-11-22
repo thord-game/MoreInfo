@@ -2,15 +2,25 @@
 
 このリポジトリはモリサワ社のBIZ UDゴシックを使用したMinecraftの日本語フォントリソースパックを公開しています。
 フォントのリソースパック化にはFontGenを使用しています。
-Minecraft バージョン1.16.5向けに作成しておりますが、1.19までであれば他のバージョンでも導入時に注意が出ますが問題なく使用可能です。
-※v1.20以降はMinecraftのフォントの仕様変更により使用できません。
+
+Minecraft バージョン1.16.5向けに作成したものは、1.19までであれば他のバージョンでも導入時に注意が出ますが問題なく使用可能です。
+
+v1.20以降はMinecraftのフォントの仕様変更により別の方法を使ってフォントの変更を行っており、もう一つのファイルを使ってください。
 
 以下からダウンロードしてリソースパックを導入することでフォントの変更が可能です。
 
-https://github.com/thord-game/MoreInfo/MCFont_BIZUDGothic.zip
+### Minecraft v1.16.5向け（～v1.19.4まで対応）
+
+https://github.com/thord-game/MoreInfo/MCFont_BIZUD_v1.16.5.zip
+
+### Minecraft v1.20.2向け（v1.20以降も対応）
+
+https://github.com/thord-game/MoreInfo/MCFont_BIZUD_v1.20.2.zip
 
 
-参考：モリサワ社 BIZ UDゴシック
+
+
+### 参考：モリサワ社 BIZ UDゴシック
 
 https://github.com/googlefonts/morisawa-biz-ud-gothic
 
