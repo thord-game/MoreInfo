@@ -10,11 +10,11 @@ v1.20以降はMinecraftのフォントの仕様変更により別の方法を使
 
 ### Minecraft v1.16.5向け（～v1.19.4まで対応）
 
-https://github.com/thord-game/MoreInfo/blob/main/MCFont_BIZUDGothic/MCFont_BIZUD_v1.16.5.zip
+https://github.com/thord-game/MoreInfo/raw/main/MCFont_BIZUDGothic/MCFont_BIZUD_v1.16.5.zip
 
 ### Minecraft v1.20.2向け（v1.20以降も対応）
 
-https://github.com/thord-game/MoreInfo/blob/main/MCFont_BIZUDGothic/MCFont_BIZUD_v1.20.2.zip
+https://github.com/thord-game/MoreInfo/raw/main/MCFont_BIZUDGothic/MCFont_BIZUD_v1.20.2.zip
 
 ※「Unicodeフォントを強制する」をオンにした場合にフォントが変更されます。
 
