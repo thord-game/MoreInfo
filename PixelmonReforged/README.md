@@ -13,7 +13,3 @@ https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/ReusablePokedi
 
 https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/EndressBreeding
 
-※参考: No Requirement Breeding
-
-https://www.curseforge.com/minecraft/texture-packs/no-requirement-breeding
-
