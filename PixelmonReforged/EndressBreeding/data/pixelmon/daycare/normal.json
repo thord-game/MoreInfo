@@ -1,0 +1,21 @@
+{
+  "spec": "type1:NORMAL",
+  "durations": [
+    {
+      "type": "add",
+      "amount": 0,
+      "unit": "HOURS"
+    }
+  ],
+  "requirements": [
+    {
+      "type": "itemstack",
+      "error_message": "準備OK?",
+      "items": [
+        {
+          "item": "minecraft:stone",
+          "amount": 0
+        }
+      ]
+    }  ]
+}
