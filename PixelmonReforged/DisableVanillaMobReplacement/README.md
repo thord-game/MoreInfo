@@ -13,3 +13,9 @@ https://github.com/thord-game/MoreInfo/raw/main/PixelmonReforged/DisableVanillaM
 https://www.curseforge.com/minecraft/texture-packs/disable-vanilla-mob-replacement
 
 
+このデータパックの設定を有効にするには、併せて以下の設定を変更する必要があります。
+
+\config\pixelmon\config.ymlファイル
+
+`allow-vanilla-mobs: true`
+
