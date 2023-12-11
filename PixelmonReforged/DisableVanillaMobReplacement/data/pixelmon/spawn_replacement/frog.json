@@ -1,0 +1,21 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:frog"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "froakie",
+    "frogadier",
+    "greninja",
+    "poliwhirl",
+    "poliwrath",
+    "politoed",
+    "palpitoad",
+    "seismitoad",
+    "bellibolt",
+    "croagunk",
+    "toxicroak"
+  ]
+}

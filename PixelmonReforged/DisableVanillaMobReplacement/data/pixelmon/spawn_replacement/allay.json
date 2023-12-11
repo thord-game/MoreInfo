@@ -1,0 +1,15 @@
+{
+    "enabled": false,
+    "detection_logic": "simple",
+    "replaced_mobs": [
+      "minecraft:allay"
+    ],
+    "replacement_logic": "simple",
+    "specs": [
+      "cutiefly",
+      "spritzee",
+      "swirlix",
+      "flabebe",
+      "floette"
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "detection_logic": "simple",
+  "replaced_mobs": [
+    "minecraft:squid"
+  ],
+  "replacement_logic": "simple",
+  "specs": [
+    "tentacool",
+    "tentacruel",
+    "frillish",
+    "jellicent"
+  ]
+}
