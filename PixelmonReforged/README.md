@@ -13,3 +13,12 @@ https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/ReusablePokedi
 
 https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/EndressBreeding
 
+- v9.1.11のアルクジラ・ハルクジラがポケモン図鑑に表示されないバグを修正するデータパック:dexfix_v9-1-11
+
+https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/dexfix_v9-1-11
+
+- v9.2のフィールドわざのさがすでバイオーム除外条件があると出現しないバグを修正するデータパック:forage_loot_fix
+
+https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/forage_loot_fix
+
+
