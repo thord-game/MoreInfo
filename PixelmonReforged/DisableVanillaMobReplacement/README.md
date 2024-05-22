@@ -11,6 +11,10 @@ https://github.com/thord-game/MoreInfo/raw/main/PixelmonReforged/DisableVanillaM
 
 https://github.com/thord-game/MoreInfo/raw/main/PixelmonReforged/DisableVanillaMobReplacement/DisableVanillaMobReplacement-v1.20.1.zip
 
+### 参考: Minecraft v1.20.1 & Pixelmon v9.2.3 向け 村人のみPixelmon NPCに置き換え
+
+https://github.com/thord-game/MoreInfo/raw/main/PixelmonReforged/DisableVanillaMobReplacement/DisableVanillaMobReplacement_npc-v1.20.1.zip
+
 
 ### 参考：Minecraft v1.16.5 & Pixelmon v9.1.x 向け
 
