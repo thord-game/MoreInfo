@@ -28,4 +28,5 @@ https://www.curseforge.com/minecraft/texture-packs/disable-vanilla-mob-replaceme
 `allow-vanilla-mobs: true`
 
 以下のファイルをダウンロードして置き換えても可能です。
+
 https://github.com/thord-game/MoreInfo/blob/main/PixelmonReforged/DisableVanillaMobReplacement/config.yml
