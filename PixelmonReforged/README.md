@@ -1,7 +1,7 @@
 
 ## Pixelmon Reforged
 
-- 伝説ポケモン出現場所一覧 (v9.1.6)
+- 伝説ポケモン出現場所一覧 (v9.1.9)
 
 https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/LegendarySpawn
 

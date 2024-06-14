@@ -18,8 +18,8 @@
 | |379|レジスチル|Registeel|3|砂漠|desert|夜明け,午前|地下|砂漠|desert|
 | |380|ラティアス|Latias|3|海洋|ocean|午前|空中|暖かい海|warm_ocean|
 | |381|ラティオス|Latios|3|海洋|ocean|午後|空中|暖かい海|warm_ocean|
-| |382|カイオーガ|Kyogre|3|深海|deep_ocean|雨か嵐の夜|水中|海洋|ocean|
-| |383|グラードン|Groudon|3|砂漠の丘陵|desert_hills|日中| |砂漠|desert|
+| |382|カイオーガ|Kyogre|3|深海|deep_ocean|夜|水中、雨/嵐|海洋|ocean|
+| |383|グラードン|Groudon|3|砂漠の丘陵|desert_hills|日中|晴れ|砂漠|desert|
 | |384|レックウザ|Rayquaza|3|山岳|mountains|夜明け,夕方|空中|山岳|mountains|
 | |386|デオキシス|Deoxys|3|雪のタイガの山 / エンドの高地|snowy_taiga_mountains / end_highlands|午前| |雪のタイガ / エンド|snowy_taiga / the_end|
 | |395|ジラーチ|Jirachi|3|砂利の山|gravelly_mountains|夜明け,午前| |森のある山|wooded_mountains|
@@ -33,7 +33,7 @@
 | |487|ギラティナ|Giratina|3|砂漠の丘陵 の【時空祭壇】|desert_hills|-|要：はっきんだま|山岳 / 雪山|mountains / snowy_mountains|
 | |488|クレセリア|Cresselia|3|巨大なシラカバの森|tall_birch_forest|夜|満月|シラカバの森|birch_forest|
 | |489|フィオネ|Phione|30|-|-|-|マナフィのタマゴ孵化|ぬるい海 / 暖かい海|lukewarm_ocean / warm_ocean|
-| |490|マナフィ|Manaphy|3|暖かい海|warm_ocean|午前|水中|ぬるい海 / 暖かい海|lukewarm_ocean / warm_ocean|
+| |490|マナフィ|Manaphy|3|暖かい海|warm_ocean|午前|水中、晴れ|ぬるい海 / 暖かい海|lukewarm_ocean / warm_ocean|
 | |491|ダークライ|Darkrai|3|薄暗い森の丘陵|dark_forest_hills|夜|新月|薄暗い森|dark_forest|
 | |492|シェイミ|Shaymin|45|花の森 / ヒマワリ平原 / ラナキラマウンテン|flower_forest / sunflower_plains / mount_lanakila|午前| |花の森 / ヒマワリ平原|flower_forest / sunflower_plains|
 | |493|アルセウス|Arceus|3|砂漠の丘陵 の【時空祭壇】|desert_hills|-|要：てんかいのふえ|山岳 / 雪山|mountains / snowy_mountains|
@@ -41,8 +41,8 @@
 | |638|コバルオン|Cobalion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|夜| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
 | |639|テラキオン|Terrakion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|夜| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
 | |640|ビリジオン|Virizion|3|森林の丘陵 / シラカバの森の丘陵 / 巨大なシラカバの森の丘陵|wooded_hills / birch_forest_hills / tall_birch_hills|日中| |森林の丘陵 / タイガの丘陵|wooded_hills / taiga_hills|
-| |641|トルネロス|Tornadus|3|平原|plains|雨か嵐の午後|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
-| |642|ボルトロス|Thundurus|3|平原|plains|雨か嵐の午前|空中|平原 / ヒマワリ平原|plains / sunflower_plains|
+| |641|トルネロス|Tornadus|3|平原|plains|雨か嵐の午後|空中、雨/嵐|平原 / ヒマワリ平原|plains / sunflower_plains|
+| |642|ボルトロス|Thundurus|3|平原|plains|雨か嵐の午前|空中、雨/嵐|平原 / ヒマワリ平原|plains / sunflower_plains|
 | |643|レシラム|Reshiram|45|巨大樹のタイガ|giant_tree_taiga|日中| |巨大樹のタイガ|giant_tree_taiga|
 | |644|ゼクロム|Zekrom|45|巨大樹のタイガ|giant_tree_taiga|夜| |巨大樹のタイガ|giant_tree_taiga|
 | |645|ランドロス|Landorus|3|荒野の変異した台地|modified_badlands_plateau|夜明け,午前|空中|荒野|badlands|
@@ -77,7 +77,7 @@
 | |890|ムゲンダイナ|Eternatus|10|沼地 / エンドのやせ地|swamp / end_barrens|夜明け,午前| |沼地 / エンド|swamp / the_end|
 | |891|ダクマ|Kubfu|3|竹林 / 竹林の丘|bamboo_jungle / bamboo_jungle_hills|午後| |ジャングル|jungle|
 | |892|ウーラオス|Urshifu|3|-| |-|進化|ジャングル|jungle|
-| |893|ザルード|Zarude|3|ジャングル|jungle|夜| |ジャングル|jungle|
+| |893|ザルード|Zarude|3|ジャングル|jungle|夜|木の上|ジャングル|jungle|
 | |894|レジドラゴ|Regidrago|3|ネザー|nether|日中|人工|ネザー|nether|
 | |895|レジエレキ|Regieleki|3|エンド|the_end|午後|人工|エンド|the_end|
 | |896|ブリザポス|Glastrier|3|雪のツンドラ / 雪山 / 凍った川 / 凍った海 / 雪の降る砂浜 / 氷樹|snowy_tundra / Snowy Mountains / frozen_river / frozen_ocean / Snowy Beach / Ice Spikes|日中| |雪のツンドラ|snowy_tundra|
@@ -87,3 +87,11 @@
 | |145|ガラルサンダー|Zapdos-galarian|3| | |-|クエスト|サバンナ|savanna|
 | |146|ガラルファイヤー|Moltres-galarian|3| | |-|クエスト|荒野|badlands|
 | |905|ラブトロス|Enamorus|3|花の森 / ヒマワリ平原| |夜明け,夕方|空中|花の森 / ヒマワリ平原|flower_forest / sunflower_plains|
+|パルデア|1001|チオンジェン|WoChien|6|-|-|-| |-|-|
+| |1002|パオジアン|ChienPao|6|どこでも(雪山は確率倍)|(snowy_mountains)|夜|Y80以上|雪山|snowy_mountains|
+| |1003|ディンルー|TingLu|6|-|-|-| |-|-|
+| |1004|イーユイ|ChiYu|6|荒野|badlands|日中|溶岩表面|荒野|badlands|
+| |1007|コライドン|Koraidon|3|-|-|-| |-|-|
+| |1008|ミライドン|Miraidon|3|-|-|-| |-|-|
+| |1009|ウネルミナモ|WalkingWake|5|-|-|-| |エンド|the_end|
+| |1010|テツノイサハ|IronLeaves|5|-|-|-| |エンド|the_end|
