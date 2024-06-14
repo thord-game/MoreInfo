@@ -93,5 +93,5 @@
 | |1004|イーユイ|ChiYu|6|荒野|badlands|日中|溶岩表面|荒野|badlands|
 | |1007|コライドン|Koraidon|3|-|-|-| |-|-|
 | |1008|ミライドン|Miraidon|3|-|-|-| |-|-|
-| |1009|ウネルミナモ|WalkingWake|5|-|-|-| |エンド|the_end|
-| |1010|テツノイサハ|IronLeaves|5|-|-|-| |エンド|the_end|
+| |1009|ウネルミナモ|WalkingWake|5|(レイドのみ)|-|-| |エンド|the_end|
+| |1010|テツノイサハ|IronLeaves|5|(レイドのみ)|-|-| |エンド|the_end|
