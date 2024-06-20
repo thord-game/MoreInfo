@@ -24,3 +24,8 @@ https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/forage_loot_fi
 - イッカネズミ系統を室内から野外に出現場所を変更するデータパック:wakanainezumi
 
 https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/wakanainezumi
+
+- タイプ：ヌルの出現設定を修正するデータパック:spawning-fix
+
+https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/spawning-fix
+
