@@ -1,7 +1,7 @@
 ## Pixelmon Reforged v9.2.8時点の伝説ポケモンの出現場所一覧
 
 |世代|No|分類|ポケモン|Pokemon|捕捉率|出現バイオーム|biome|時間帯|備考|レイド|raids-biome|
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |カントー|144|準伝説|フリーザー|Articuno|3|凍った山頂の【氷の神社】|frozen_peaks 【shrines/articuno】|-|要：氷のオーブ|凍った山頂/ラナキラマウンテン/雪原/氷樹|frozen_peaks/mount_lanakila/snowy_plains/ice_spikes|
 |-|145|準伝説|サンダー|Zapdos|3|サバンナ/サバンナの高原/吹きさらしのサバンナ の【電気の神社】|savanna/savanna_plateau/windswept_savanna 【shrines/zapdos】|-|要：雷のオーブ|サバンナ/サバンナの高原/吹きさらしのサバンナ|savanna/savanna_plateau/windswept_savanna|
 |-|146|準伝説|ファイヤー|Moltres|3|荒野/侵食された荒野/森のある荒野の【炎の神社】|badlands/eroded_badlands/ wooded_badlands 【shrines/moltres】|-|要：炎のオーブ|荒野/森のある荒野/侵食された荒野|badlands/wooded_badlands/eroded_badlands|
