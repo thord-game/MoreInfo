@@ -29,3 +29,5 @@ https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/wakanainezumi
 
 https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/spawning-fix
 
+- プラチナ鉱石の出現設定の一部がルビー鉱石になっているバグを修正するデータパック:plutinum_fix
+
